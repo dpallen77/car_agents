@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Project outputs
+agent_log.txt
+*.db
+cars_dataset.csv
+
+# macOS
+.DS_Store
